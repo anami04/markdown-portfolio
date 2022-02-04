@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+ordered list 
+1. Javascript 
+2. C++
+3. C 
+4. VB script 
+5. PHP 
